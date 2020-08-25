@@ -1,1 +1,1 @@
-https://safakhemiri.github.io/Pyramide/
+https://safakhemiri.github.io/PyramideJS/
